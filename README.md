@@ -5,7 +5,7 @@
 **PerliteRation_and_Nodularity.py**は、球状黒鉛鋳鉄品（FCD）の組織画像について、パーライト面積率や黒鉛球状化率（JIS G5502-2022 球状黒鉛鋳鉄品のISO法およびJIS法による）を求めるプログラムです。ここでは、組織画像は下図のように黒鉛とパーライトの両方が見られるものをいいます。
 <br><br>
 
-![28233756](https://github.com/repositoryfiles/PerliteRatio_and_Nodularity/assets/91704559/9fdad087-a1a0-425f-8352-d75b92b4ffa8)
+![28233843](https://github.com/repositoryfiles/PerliteRatio_and_Nodularity/assets/91704559/7cbe9919-eb64-4e36-8328-ec1f6a0f9e55)
 
 <br>
 図 球状黒鉛鋳鉄品の組織画像（エッチング済み）
